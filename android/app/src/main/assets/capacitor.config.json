@@ -1,0 +1,7 @@
+{
+  "appId": "uk.co.jonathanrobbins.ionic",
+  "appName": "angular-ionic",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
