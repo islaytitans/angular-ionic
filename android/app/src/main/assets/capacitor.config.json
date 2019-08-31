@@ -3,5 +3,8 @@
   "appName": "angular-ionic",
   "bundledWebRuntime": false,
   "npmClient": "npm",
-  "webDir": "www"
+  "webDir": "www",
+  "server": {
+    "url": "http://localhost:8102"
+  }
 }
